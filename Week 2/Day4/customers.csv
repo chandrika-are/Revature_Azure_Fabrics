@@ -1,0 +1,13 @@
+CustomerID,CustomerName,City,Email,Age,JoinDate,TotalPurchase
+1,Amit Sharma,Delhi,amit@gmail.com,28,1/10/2025,12500
+2,Priya Rao,Chennai,priya@gmail.com,34,1/15/2025,22000
+3,Rahul Verma,Mumbai,rahul@gmail.com,41,2/2/2025,18500
+4,Sneha Iyer,Bengaluru,sneha@gmail.com,29,2/12/2025,9800
+5,Kiran Kumar,Hyderabad,kiran@gmail.com,37,3/5/2025,31000
+6,Anjali Gupta,Pune,anjali@gmail.com,26,3/15/2025,7600
+7,Vikram Singh,Delhi,vikram@gmail.com,,4/1/2025,
+8,Neha Patel,Ahmedabad,neha@gmail.com,31,4/10/2025,15400
+9,Arjun Reddy,Chennai,arjun@gmail.com,39,5/2/2025,27800
+10,Meera Nair,Kochi,meera@gmail.com,27,5/18/2025,11200
+10,Meera Nair,Kochi,meera@gmail.com,27,5/18/2025,11200
+2,Priya Rao,Chennai,priya@gmail.com,34,1/15/2025,22000
